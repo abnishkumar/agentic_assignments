@@ -1,0 +1,29 @@
+# Core dependencies
+langchain-community
+langchain_huggingface
+langchain 
+langchain-openai
+pydantic
+python-dotenv
+
+# Vector store and database
+pymongo
+opensearch-py
+faiss-cpu
+rank_bm25
+
+# PDF processing
+pypdf
+python-docx
+Pillow
+pymupdf
+
+# Embedding models
+sentence-transformers
+transformers
+torch
+numpy
+
+# Data processing
+pandas
+tqdm
