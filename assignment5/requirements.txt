@@ -1,0 +1,10 @@
+langchain-community
+faiss-cpu
+langchain 
+langgraph
+langchain_openai
+langchain-core
+langchain-community
+pydantic
+python-dotenv
+requests
